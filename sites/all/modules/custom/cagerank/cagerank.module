@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the cagerank feature.
+ */
+
+include_once 'cagerank.features.inc';

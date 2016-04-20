@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the fan_art feature.
+ */
+
+include_once 'fan_art.features.inc';
