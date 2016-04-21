@@ -1,0 +1,35 @@
+#container #center {
+  font-family: Arial, Helvetica,Sans-Serif;
+}
+
+.right-corner .left-corner {
+  background-color: transparent;
+}
+
+.poll .bar {
+  background-color: #f009f0;
+}
+
+a img {
+  border-left-width: 1px;
+  border-top-width: 2px;
+  border-bottom-width: 2px;
+  border-right-width: 1px;
+  border-top-color: #f508f5;
+  border-right-color: #f508f5;
+  border-bottom-color: #f508f5;
+  border-left-color: #f508f5;
+  border-top-style: groove;
+  border-right-style: groove;
+  border-bottom-style: groove;
+  border-left-style: groove;
+}
+
+div .links {
+  font-family: 'Comic Sans MS',Cursive;
+}
+
+.field-item p {
+  background-color: #f0e8f0;
+}
+
